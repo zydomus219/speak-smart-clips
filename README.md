@@ -1,4 +1,5 @@
 # Welcome to your Lovable project
+Test Account: qichaotomwang+1@gmail.com   Test Password: Test123
 
 ## Project info
 
